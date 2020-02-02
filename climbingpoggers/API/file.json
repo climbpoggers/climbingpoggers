@@ -1,0 +1,8 @@
+{ "users":[
+        {"name": "danielreedcombs@gmail.com",
+         "password": "climb",
+         "id": 1},
+        {"name": "navzep@gmail.com",
+        "password": "climb",
+        "id": 1}]
+}
