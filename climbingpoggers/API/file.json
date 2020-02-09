@@ -1,8 +1,25 @@
 { "users":[
         {"name": "danielreedcombs@gmail.com",
          "password": "climb",
-         "id": 1},
+         "id": 1,
+         "Boulders_done": [1]}},
         {"name": "navzep@gmail.com",
         "password": "climb",
-        "id": 1}]
+        "id": 1,
+        "Boulders_done": [1]}],
+    "Boulders":[
+        {  "id": 1,
+            "name": "Center 45",
+            "Grade": "V3",
+            "Boulder_Field": 1
+
+        }
+    ],
+    "Boulder_Fields":[{
+        "id": 1,
+        "name": "Blowing Rock Boulders",
+        "Location": "Boone",
+        "State": "North Carolina",
+        "Boulders": [1]
+    }]
 }
